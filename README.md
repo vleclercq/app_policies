@@ -5,3 +5,6 @@ Privacy policies and terms of use for apps published by Vincent Leclercq, hosted
 - [Rustforge — Privacy Policy](rustforge/privacy-policy.html)
 - [Sand Warriors — Privacy Policy](sandwarriors/privacy-policy.html)
 - [Sand Warriors — Support](sandwarriors/support.html)
+- [FactureCheck — Politique de confidentialité / Privacy Policy](facturecheck/privacy-policy.html)
+- [FactureCheck — Conditions d’utilisation / Terms of Use](facturecheck/terms.html)
+- [FactureCheck — Aide / Support](facturecheck/support.html)
